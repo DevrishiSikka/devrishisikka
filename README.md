@@ -1,15 +1,11 @@
-<style>
-  @font-face {
-    font-family: 'YourLocalFont';
-    src: url('path/to/your/local/font.woff2') format('woff2');
-  }
 
-  h2 {
-    font-family: 'YourLocalFont', sans-serif;
-    color: #4CAF50;
-  }
-  
-</style>
+.markdown-body {
+  --markdown-radius: 3px;
+  --markdown-font: Papyrus, serif;
+  --markdown-text: #333;
+  --markdown-title: hotpink;
+  --markdown-line-height: 2;
+}
 
 ###
 
