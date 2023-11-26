@@ -1,3 +1,16 @@
+<style>
+  @font-face {
+    font-family: 'YourLocalFont';
+    src: url('path/to/your/local/font.woff2') format('woff2');
+  }
+
+  h2 {
+    font-family: 'YourLocalFont', sans-serif;
+    color: #4CAF50;
+  }
+  
+</style>
+
 <h2 align="left">Hi, my name is Devrishi Sikka. I'm a Computer Science student passionate about Back-End development and creating innovative solutions. Let's connect and code for impact! 🚀</h2>
 
 ###
