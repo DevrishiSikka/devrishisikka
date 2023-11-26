@@ -1,15 +1,5 @@
 
-.markdown-body {
-  --markdown-radius: 3px;
-  --markdown-font: Papyrus, serif;
-  --markdown-text: #333;
-  --markdown-title: hotpink;
-  --markdown-line-height: 2;
-}
-
-###
-
-<h2 align="left">Hi, my name is Devrishi Sikka. I'm a Computer Science student passionate about Back-End development and creating innovative solutions. Let's connect and code for impact! 🚀</h2>
+<h2 align="left" font="Monoko">Hi, my name is Devrishi Sikka. I'm a Computer Science student passionate about Back-End development and creating innovative solutions. Let's connect and code for impact! 🚀</h2>
 
 ###
 
