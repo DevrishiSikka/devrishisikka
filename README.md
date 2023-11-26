@@ -1,5 +1,5 @@
 
-<h2 align="left" font="monospace">Hi, my name is Devrishi Sikka. I'm a Computer Science student passionate about Back-End development and creating innovative solutions. Let's connect and code for impact! 🚀</h2>
+<h2 align="left">Hi, my name is Devrishi Sikka. I'm a Computer Science student passionate about Back-End development and creating innovative solutions. Let's connect and code for impact! 🚀</h2>
 
 ###
 
