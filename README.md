@@ -1,66 +1,38 @@
+Hi 👋 My name is Devrishi Sikka
+===============================
 
-<h2 align="left">Hi, my name is Devrishi Sikka. I'm a Computer Science student passionate about Back-End development and creating innovative solutions. Let's connect and code for impact! 🚀</h2>
+Software Developer | AI Enthusiast | Open-Source Contributor
+------------------------------------------------------------
 
-###
+I've had a lifelong passion for technology and data, which has led me to pursue a B.Tech in Computer Science. Throughout my studies, I've developed deep expertise in AI and Machine Learning, with a particular focus on crafting data-driven solutions. My journey began with mastering programming languages like Python and Java, but has since evolved into a strong interest in cloud computing and data analytics. Whether I'm developing neural network models for medical diagnosis or creating interactive dashboards for insightful data visualization, I'm driven by a desire to tackle complex problems with innovative approaches. Constantly pushing the boundaries of what's possible with data and technology, my ultimate goal is to harness the power of these tools to drive meaningful change. I thrive on the challenge of finding creative solutions to intricate problems, and I'm always eager to collaborate with like-minded individuals who share my passion for pushing the frontiers of what's achievable.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devrishisikka&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devrishisikka&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+* 🌍  I'm based in Chennai, India
+* 🖥️  See my portfolio at [Devrishi Sikka](http://devrishisikka.netlify.app/)
+* ✉️  You can contact me at [devrishisikka@gmail.com](mailto:devrishisikka@gmail.com)
+* 🧠  I'm learning Redis
+* 🤝  I'm open to collaborating on projects involving Cloud Solutions and Backend Development.
 
-###
+<a href="https://www.github.com/DevrishiSikka" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DevrishiSikka?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 
-<h4 align="left">Skills Showcase:</h4>
+### Skills
 
-###
 
-<br clear="both">
+<p align="left" style="display:flex; gap:10px">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="24" height="24" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="24" height="24" alt="Python" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="24" height="24" alt="Java" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="24" height="24" alt="Git" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="24" height="24" alt="GNU Bash" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="24" height="24" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="24" height="24" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="24" height="24" alt="CSS3" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="24" height="24" alt="Bootstrap" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="24" height="24" alt="Sass" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="24" height="24" alt="Flask" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="24" height="24" alt="MySQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="24" height="24" alt="MongoDB" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="24" height="24" alt="Fast API" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="24" height="24" alt="Figma" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="24" height="24" alt="Google Cloud" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="24" height="24" alt="Amazon Web Services" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="24" height="24" alt="Django" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="24" height="24" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="24" height="24" alt="Linux" /></a>
+</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-</div>
 
-###
+### Socials
 
-<h4 align="left">Let's Connect:</h4>
+<p align="left"> <a href="https://www.github.com/DevrishiSikka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="24" height="24" /> </picture> </a> <a href="http://www.instagram.com/dev.daas_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="24" height="24" /> </picture> </a> <a href="https://www.linkedin.com/in/devrishisikka" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="24" height="24" /> </picture> </a></p>
 
-###
+### Badges
 
-<br clear="both">
+<b>Top Repositories</b>
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/devrishisikka/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:devrishisikka@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/+916392667261" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="37" height="25" alt="hackerrank logo"  />
-</div>
+<div width="100%" align="center"><a href="https://github.com/DevrishiSikka/HackLink" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevrishiSikka&repo=HackLink&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/DevrishiSikka/DungeonOfDevelopers-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevrishiSikka&repo=DungeonOfDevelopers-Website&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
-###
+<br /><br />
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/devrishisikka/devrishisikka/output/snake.svg" alt="Snake animation" />
-
-###
+<div width="100%" align="center"><a href="https://github.com/DevrishiSikka/INFYINITE_Backend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevrishiSikka&repo=INFYINITE_Backend&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/DevrishiSikka/Portfolio-Website" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DevrishiSikka&repo=Portfolio-Website&title_color=ffffff&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en" /></a></div>
