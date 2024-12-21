@@ -7,7 +7,7 @@ Software Developer | AI Enthusiast | Open-Source Contributor
 I've had a lifelong passion for technology and data, which has led me to pursue a B.Tech in Computer Science. Throughout my studies, I've developed deep expertise in AI and Machine Learning, with a particular focus on crafting data-driven solutions. My journey began with mastering programming languages like Python and Java, but has since evolved into a strong interest in cloud computing and data analytics. Whether I'm developing neural network models for medical diagnosis or creating interactive dashboards for insightful data visualization, I'm driven by a desire to tackle complex problems with innovative approaches. Constantly pushing the boundaries of what's possible with data and technology, my ultimate goal is to harness the power of these tools to drive meaningful change. I thrive on the challenge of finding creative solutions to intricate problems, and I'm always eager to collaborate with like-minded individuals who share my passion for pushing the frontiers of what's achievable.
 
 * 🌍  I'm based in Chennai, India
-* 🖥️  See my portfolio at [Devrishi Sikka](http://devrishisikka.netlify.app/)
+* 🖥️  See my portfolio at [Devrishi Sikka](http://devcodes.me/)
 * ✉️  You can contact me at [devrishisikka@gmail.com](mailto:devrishisikka@gmail.com)
 * 🧠  I'm learning Redis
 * 🤝  I'm open to collaborating on projects involving Cloud Solutions and Backend Development.
